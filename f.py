@@ -9,8 +9,8 @@ API_SECRET = "62f8ce9f74b12f84c123cc23437a4a32"
 
 __banner__ = """
       
-       |..........Facebook Cracker v 1 By Zaarf Nomad.........|
-       +---------------------------------------+
+       Facebook Cracker v 1 By Zaarf Nomad
+     ---------------------------------------
 """
 
 print("[+] Facebook Brute Force\n")
