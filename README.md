@@ -13,4 +13,4 @@ git clone https://github.com/zaarf/fbbrute.git
 11. ls
 12. cd 7affd78213242d642451
 13. ls
-14. python2 facebook.py
+14. python2 f.py
